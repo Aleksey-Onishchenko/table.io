@@ -1,0 +1,101 @@
+.scale {
+  transition: transform 0.3s;
+  cursor: pointer;
+}
+.scale:hover {
+  transform: scale(1.07);
+}
+
+.favorite_drink {
+  font-size: 40px;
+  line-height: 60px;
+  padding: 100px 30px;
+}
+
+.text_block {
+  height: 40%;
+}
+
+.bottom_block {
+  height: 60%;
+}
+
+.igors_dream {
+  position: relative;
+  height: 353px;
+}
+
+.igor {
+  width: 200px;
+  position: absolute;
+  bottom: 0;
+  right: 40%;
+}
+
+.cloud_one {
+  width: 20px;
+  height: 20px;
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  right: 53%;
+  bottom: 35%;
+}
+
+.cloud_two {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  right: 55%;
+  bottom: 40%;
+}
+
+.cloud_three {
+  width: 150px;
+  height: 150px;
+  background: white;
+  border-radius: 50%;
+  position: absolute;
+  right: 57%;
+  bottom: 50%;
+}
+
+.cloud_heart {
+  width: 60px;
+  margin: 10px 0 8px 43px;
+}
+
+.cloud_beer {
+  width: 60px;
+  margin: 0 0 0 46px;
+}
+
+.but_one_day {
+  font-size: 30px;
+  color: black;
+}
+
+.arrow_right,
+.arrow_left {
+  width: 100px;
+  margin-left: 30px;
+}
+
+.arrow_right {
+  margin: 0 50px 0 0;
+}
+
+.next_page {
+  display: inline-block;
+  width: 49%;
+  text-align: end;
+}
+
+.prev_page {
+  width: 50%;
+  display: inline-block;
+}
+
+/*# sourceMappingURL=/index_page_two.1e129875.css.map */

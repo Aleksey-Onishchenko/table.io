@@ -1,0 +1,77 @@
+.scale {
+  transition: transform 0.3s;
+  cursor: pointer;
+}
+.scale:hover {
+  transform: scale(1.07);
+}
+
+.hold_out {
+  padding: 100px 30px;
+  font-size: 40px;
+  line-height: 60px;
+}
+
+.text_side {
+  height: 60%;
+}
+
+.bottom_side {
+  height: 40%;
+}
+
+.cloud_message_two {
+  width: 250px;
+  position: absolute;
+  left: 20%;
+  bottom: 70%;
+}
+
+.igor_say,
+.wizard_say {
+  position: relative;
+  display: inline-block;
+  margin-left: 25%;
+}
+
+.igor_say {
+  margin-left: 35%;
+}
+
+.igor_two {
+  width: 150px;
+}
+
+.cloud_message {
+  width: 200px;
+  position: absolute;
+  left: 60%;
+  bottom: 50%;
+}
+
+.wizard_flip {
+  width: 210px;
+}
+
+.arrow_right,
+.arrow_left {
+  width: 100px;
+  margin-left: 30px;
+}
+
+.arrow_right {
+  margin: 0 50px 0 0;
+}
+
+.next_page {
+  display: inline-block;
+  width: 49%;
+  text-align: end;
+}
+
+.prev_page {
+  width: 50%;
+  display: inline-block;
+}
+
+/*# sourceMappingURL=/index_page_four.31c5f488.css.map */
