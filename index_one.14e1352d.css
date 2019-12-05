@@ -1,0 +1,65 @@
+.scale {
+  transition: transform 0.3s;
+  cursor: pointer;
+}
+.scale:hover {
+  transform: scale(1.07);
+}
+
+.start_btn {
+  height: 70px;
+  width: 230px;
+  vertical-align: bottom;
+}
+.start_btn img {
+  width: 100%;
+}
+
+.main_text {
+  height: 75%;
+}
+
+.bottom_side {
+  height: 25%;
+  padding: 0 50px;
+  text-align: right;
+}
+
+.for_along_time {
+  font-size: 40px;
+  padding: 50px;
+}
+
+.hero_story {
+  font-size: 35px;
+  padding: 30px 40px;
+}
+
+.joke {
+  top: 230px;
+  padding: 0 30px;
+}
+
+.start_game {
+  text-align: center;
+}
+.start_game a {
+  display: inline-block;
+}
+
+.asking_quest {
+  font-size: 36px;
+}
+
+.to_table {
+  display: inline-block;
+}
+.to_table:hover {
+  cursor: pointer;
+}
+
+.table_btn {
+  width: 150px;
+}
+
+/*# sourceMappingURL=/index_one.14e1352d.css.map */
